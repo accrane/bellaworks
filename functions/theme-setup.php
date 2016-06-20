@@ -86,6 +86,12 @@ function bellaworks_scripts_styles() {
 	// wp_enqueue_style( 'bellaworks-colorbox', get_template_directory_uri() . '/css/colorbox.css', array( 'bellaworks-style' ), '20121010' );
 	wp_enqueue_style('bellaworks-style', get_stylesheet_directory_uri().'/style.min.css', false, null);
 
+	wp_enqueue_style('bellaworks-roboto', 'https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700', false, null);
+	wp_enqueue_style('bellaworks-ubuntu', 'https://fonts.googleapis.com/css?family=Ubuntu:400,300,500', false, null);
+	wp_enqueue_style('bellaworks-somefonts', '//hello.myfonts.net/count/2d8b74', false, null);
+
+	wp_enqueue_style('bellaworks-style', get_stylesheet_directory_uri().'/style.min.css', false, null);
+
 	// Loads the Internet Explorer specific stylesheet.
 	wp_enqueue_style( 'bellaworks-ie', get_template_directory_uri() . '/css/ie.css', array( 'bellaworks-style' ), '20121010' );
 	$wp_styles->add_data( 'bellaworks-ie', 'conditional', 'lt IE 9' );
