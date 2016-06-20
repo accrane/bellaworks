@@ -1,0 +1,71 @@
+$background: #fff;
+// $background: hsl(210, 45, 10);
+.soc {
+  width: auto;
+  float: right;
+  display: inline-block;
+  font-size: 0;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  
+  li {
+    display: inline-block;
+    margin: 5px; // IE8
+    width: 30px;
+    height: 30px;
+  }
+    
+  a, svg {
+    display: block;
+  }
+    
+  a {
+    position: relative; // IE8
+    width: 30px;
+    height: 30px;
+  }
+    
+  svg {
+    height: 100%;
+    width: 100%;
+  }
+    
+  // IE8:
+  em {
+    font-size: 14px;
+    line-height: 1.5;
+    margin-top: -.75em;
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    right: 0;
+    bottom: 0;
+    left: 0;
+  }
+    
+}
+// Using placeholder selectors and @extend (keeps output CSS lean) instead of [class*='icon-'] attribute selector because IE8 doesn't support it :<
+
+%social-icon-hover {
+  border-radius: 100%;
+  color: $background; // IE8
+  fill: $background;
+  transform: scale(1.25);
+  transition: background-color .5s, transform .5s ease-out;
+}
+ 
+
+// Neat color trick, <3 Sass
+@for $i from 1 through 30 {
+  .icon-#{$i} {
+    color: rgba($i * 255, 255, 255, 1); // IE8
+    fill: rgba($i * 255, 255, 255, 1);
+      
+      &:hover {
+        background: rgba($i * 255, 255, 255,0);
+          @extend %social-icon-hover;
+      }
+    }
+ }     

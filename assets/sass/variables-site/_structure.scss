@@ -1,0 +1,192 @@
+// $size__site-main: 100%;
+// $size__site-sidebar: 25%;
+// $tabwidth: 600px;
+// $midwidth: 900px;
+// $deskwidth: 1200px;
+
+// .clear {clear: both;}
+// .site {
+// 	position: relative;
+// }
+// .wrapper {
+// 	width: 100%;
+// 	margin: 0px auto;
+// 	padding: 20px;
+// 	overflow: hidden;
+// 	position: relative;
+	
+// 	@media screen and (min-width: $tabwidth) {
+		
+// 	}
+// 	@media screen and (min-width: $deskwidth) {
+		
+// 		padding: 20px 5%;
+// 	}
+// }
+// body.home header#masthead {
+// 	overflow: hidden;
+// 	position: relative;
+// 	z-index: 2;
+// }
+// .content-area {
+// 	width: 100%;
+// 	margin: 0px auto;
+	
+// 	@media screen and (min-width: $tabwidth) {
+// 		width: 66%;
+// 		float: left;
+// 		margin: 0;
+// 	}
+// 	@media screen and (min-width: $deskwidth) {
+// 		/*width: 1200px;*/
+// 	}
+// }
+
+// .widget-area {
+// 	width: 100%;
+// 	margin: 0px auto;
+	
+// 	@media screen and (min-width: $tabwidth) {
+// 		width: 26%;
+// 		float: right;
+// 		margin: 0;
+// 	}
+// 	@media screen and (min-width: $deskwidth) {
+// 		/*width: 1200px;*/
+// 	}
+// }
+
+// /* Logo */
+// .logo , h1.logo {
+// 	width: 280px;
+// 	height: 76px;
+// 	background: {
+// 		image: url(images/logo.png);
+// 		size: cover;
+// 		repeat: no-repeat;
+// 	}
+// 	margin: 10px auto;
+
+// 	@media screen and (min-width: $tabwidth) {
+// 		width: 200px;
+// 		height: 55px;
+// 		float: left;
+// 		margin: 0;
+// 	}
+// 	@media screen and (min-width: $midwidth) {
+		
+// 	}
+// 	@media screen and (min-width: $deskwidth) {
+// 		width: 280px;
+// 		height: 76px;
+// 	}
+// }
+// .logo a, h1.logo a {
+// 	width: 280px;
+// 	height: 76px;
+// 	display: block;
+// 	text-indent: -9000px;
+
+// 	@media screen and (min-width: $tabwidth) {
+// 		width: 200px;
+// 		height: 55px;
+// 	}
+// 	@media screen and (min-width: $midwidth) {
+		
+// 	}
+// 	@media screen and (min-width: $deskwidth) {
+// 		width: 280px;
+// 		height: 76px;
+// 	}
+// }
+// .top-header	{
+// 	width: 100%;
+// 	text-align: center;
+// 	ul {margin: 0;padding: 0;}
+// 	nav {
+// 		width: auto;
+// 		display: inline-block;
+
+// 		@media screen and (min-width: $tabwidth) {
+// 			margin: 5px 10px 0 0;
+// 		}
+// 	}
+
+// 	nav li {
+// 		width: auto;
+// 		display: inline-block;
+// 		padding: 5px 10px;
+// 		font: {
+// 			family: $font__main;
+// 			size: 13px;
+// 		}
+// 	}
+// 	nav a {
+// 		color: $color-dark-grey;
+// 		text-decoration: none;
+// 	}
+
+// 	@media screen and (min-width: $tabwidth) {
+// 		width: auto;
+// 		display: inline-block;
+// 		float: right;
+// 		text-align: right;
+// 	}
+
+// }
+// body.home .top-header	{
+// 	nav a {
+// 		color: #fff;
+// 	}
+// }
+// .hero-headline-box {
+// 	width: 100%;
+// 	position: absolute;
+// 	top: 45%;
+// }
+// .hero-headline, .hero-headline-sub-1, .hero-headline-sub-2
+// {
+// 	width: 100%;
+// 	text-align: center;
+// 	color: #fff;
+// 	font-weight: 300;
+// }
+// .hero-headline {
+// 	font: {
+// 		family: $font__main;
+// 		size: 24px;
+// 	}
+// 	margin: 0 0 10px 0;
+// 	@media screen and (min-width: $tabwidth) {
+// 		font-size: 30px;
+// 	}
+// 	@media screen and (min-width: $deskwidth) {
+// 		font-size: 46px;
+// 	}
+// }
+// .hero-headline-sub-1, .hero-headline-sub-2 {
+// 	font: {
+// 		family: $font__main;
+// 		size: 18px;
+// 	}
+	
+// 	@media screen and (min-width: $tabwidth) {
+// 		font-size: 22px;
+// 	}
+// 	@media screen and (min-width: $deskwidth) {
+// 		font-size: 24px;
+// 	}
+// }
+
+// footer.site-footer {
+// 	background-color: $color-dark-grey;
+// 	width: 100%;
+// 	clear: both;
+	
+// 	@media screen and (min-width: $tabwidth) {
+		
+// 	}
+// 	@media screen and (min-width: $deskwidth) {
+		
+// 	}
+// }

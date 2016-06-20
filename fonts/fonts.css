@@ -1,0 +1,70 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 2984820, 2015-03-04T16:56:33-0500
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: GauthierFY-Regular by Fontyou
+ * URL: http://www.myfonts.com/fonts/fontyou/gauthier-fy/regular/
+ * Copyright: Copyright (c) 2013 by FONTYOU. All rights reserved. www.fontyou.com
+ * Licensed pageviews: 20,000
+ * 
+ * Webfont: WesFY-Black by Fontyou
+ * URL: http://www.myfonts.com/fonts/fontyou/wes-fy/black/
+ * Copyright: Copyright (c) 2014 by FONTYOU. All rights reserved. www.fontyou.com
+ * Licensed pageviews: 10,000
+ * 
+ * Webfont: WesFY-Bold by Fontyou
+ * URL: http://www.myfonts.com/fonts/fontyou/wes-fy/bold/
+ * Copyright: Copyright (c) 2014 by FONTYOU. All rights reserved. www.fontyou.com
+ * Licensed pageviews: 10,000
+ * 
+ * Webfont: WesFY-Medium by Fontyou
+ * URL: http://www.myfonts.com/fonts/fontyou/wes-fy/medium/
+ * Copyright: Copyright (c) 2014 by FONTYOU. All rights reserved. www.fontyou.com
+ * Licensed pageviews: 10,000
+ * 
+ * Webfont: WesFY-Regular by Fontyou
+ * URL: http://www.myfonts.com/fonts/fontyou/wes-fy/regular/
+ * Copyright: Copyright (c) 2014 by FONTYOU. All rights reserved. www.fontyou.com
+ * Licensed pageviews: 10,000
+ * 
+ * Webfont: WesFY-Thin by Fontyou
+ * URL: http://www.myfonts.com/fonts/fontyou/wes-fy/thin/
+ * Copyright: Copyright (c) 2014 by FONTYOU. All rights reserved. www.fontyou.com
+ * Licensed pageviews: 10,000
+ * 
+ * 
+ * License: http://www.myfonts.com/viewlicense?type=web&buildid=2984820
+ * 
+ * © 2015 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/2d8b74");
+
+  
+@font-face {font-family: 'GauthierFY-Regular';src: url('webfonts/2D8B74_0_0.eot');src: url('webfonts/2D8B74_0_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2D8B74_0_0.woff2') format('woff2'),url('webfonts/2D8B74_0_0.woff') format('woff'),url('webfonts/2D8B74_0_0.ttf') format('truetype');}
+
+@font-face {font-family: 'GauthierFY-Italic';src: url('webfonts/2D8B9C_0_0.eot');src: url('webfonts/2D8B9C_0_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2D8B9C_0_0.woff2') format('woff2'),url('webfonts/2D8B9C_0_0.woff') format('woff'),url('webfonts/2D8B9C_0_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'WesFY-Black';src: url('webfonts/2D8B74_1_0.eot');src: url('webfonts/2D8B74_1_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2D8B74_1_0.woff2') format('woff2'),url('webfonts/2D8B74_1_0.woff') format('woff'),url('webfonts/2D8B74_1_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'WesFY-Bold';src: url('webfonts/2D8B74_2_0.eot');src: url('webfonts/2D8B74_2_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2D8B74_2_0.woff2') format('woff2'),url('webfonts/2D8B74_2_0.woff') format('woff'),url('webfonts/2D8B74_2_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'WesFY-Medium';src: url('webfonts/2D8B74_3_0.eot');src: url('webfonts/2D8B74_3_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2D8B74_3_0.woff2') format('woff2'),url('webfonts/2D8B74_3_0.woff') format('woff'),url('webfonts/2D8B74_3_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'WesFY-Regular';src: url('webfonts/2D8B74_4_0.eot');src: url('webfonts/2D8B74_4_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2D8B74_4_0.woff2') format('woff2'),url('webfonts/2D8B74_4_0.woff') format('woff'),url('webfonts/2D8B74_4_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'WesFY-Thin';src: url('webfonts/2D8B74_5_0.eot');src: url('webfonts/2D8B74_5_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2D8B74_5_0.woff2') format('woff2'),url('webfonts/2D8B74_5_0.woff') format('woff'),url('webfonts/2D8B74_5_0.ttf') format('truetype');}
+ 

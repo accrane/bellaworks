@@ -1,0 +1,3 @@
+[17-Jun-2015 20:25:43 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/bwwadmin/public_html/bw/wp-content/themes/bellaworks/index.php on line 8
+[25-Sep-2015 15:08:03 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/bwwadmin/public_html/bw/wp-content/themes/bellaworks/index.php on line 8
+[04-Dec-2015 14:17:31 America/Detroit] PHP Fatal error:  Call to undefined function get_header() in /home/bwwadmin/public_html/bw/wp-content/themes/bellaworks/index.php on line 8
