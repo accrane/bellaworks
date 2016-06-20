@@ -27,6 +27,7 @@
 
 <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700' type='text/css' media='all' />
 <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Ubuntu:400,300,500' type='text/css' media='all' />
+<link rel='stylesheet' href='//hello.myfonts.net/count/2d8b74' type='text/css' media='all' />
 
 <?php // Loads HTML5 JavaScript file to add support for HTML5 elements in older IE versions. ?>
 <!--[if lt IE 9]>
