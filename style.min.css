@@ -949,7 +949,7 @@ section[role="banner"]{margin-bottom:48px}
 .portblock,.newsblock,.newsblock-full,.staff{box-shadow:0 0 9px 0 rgba(0,0,0,0.3);-webkit-transition:box-shadow .3s ease;transition:box-shadow .3s ease}
 .side-subpage{box-shadow:0 0 9px 0 rgba(0,0,0,0.1);-webkit-transition:all .3s ease;transition:all .3s ease}
 #filters{margin:0 0 20px 0}
-button.portbutton{width:auto;display:inline-block;margin:0 2px 0 0;padding:15px 20px;background-color:#5fa03d;color:#fff;border:0}
+button.portbutton{width:auto;display:inline-block;margin:0 2px 0 0;padding:15px 20px;background-color:#5fa03d;color:#fff;border:0;box-shadow:none;text-shadow:none}
 button.portbutton:hover{background-color:rgba(95,160,61,0.7) !important;cursor:pointer;background-image:none}
 .portblock{width:100%;float:left;margin:0 0 30px 0;opacity:1}
 .port-img{position:relative;overflow:hidden}

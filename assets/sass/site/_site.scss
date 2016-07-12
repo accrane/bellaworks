@@ -1285,6 +1285,8 @@ button.portbutton {
 	background-color:rgba(95,160,61,1);	
 	color: #fff;
 	border: 0px;	
+	box-shadow :none;
+	text-shadow: none;
 }
 button.portbutton:hover {
 	background-color:rgba(95,160,61,.7) !important;
