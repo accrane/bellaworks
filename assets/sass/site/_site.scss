@@ -906,8 +906,8 @@ figure.effect-ruby p {
 	transition: opacity 0.35s, transform 0.35s;
 	-webkit-transform: translate3d(0,20px,0) scale(1);
 	transform: translate3d(0,20px,0) scale(1);
-	font-family: GauthierFY-Italic;
-  font-weight: normal;
+	    font-family: WesFY-Thin;
+  // font-weight: 300;
   display: none;
 } 
 
@@ -1206,6 +1206,7 @@ section[role="banner"] {
 .news-content {
 	padding: 10px 10px 40px 10px;
 	background-color: #fff;
+	overflow: hidden;
 }
 .read {
 	width: 100%;
