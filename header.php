@@ -83,13 +83,10 @@ src="https://www.facebook.com/tr?id=1107124109368587&ev=PageView&noscript=1"
         
         <div class="phone"><?php echo $phone ?></div><!-- phone -->
         
-            <nav id="site-navigation" class="main-navigation" role="navigation">
-                <h3 class="menu-toggle"><?php _e( 'Menu', 'twentytwelve' ); ?></h3>
-               <!-- <a class="assistive-text" href="#content" title="<?php esc_attr_e( 'Skip to content', 'twentytwelve' ); ?>">
-						<?php //_e( 'Skip to content', 'twentytwelve' ); ?>
-                </a>-->
-                <?php wp_nav_menu( array( 'theme_location' => 'primary', 'menu_class' => 'nav-menu' ) ); ?>
-            </nav><!-- #site-navigation -->
+        <nav id="site-navigation" class="main-navigation" role="navigation">
+          <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false"><?php esc_html_e( 'MENU', 'acstarter' ); ?></button>
+          <?php wp_nav_menu( array( 'theme_location' => 'primary', 'menu_id' => 'primary-menu' ) ); ?>
+        </nav><!-- #site-navigation -->
             
             	
             
