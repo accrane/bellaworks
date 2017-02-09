@@ -85,6 +85,9 @@ jQuery(document).ready(function ($) {
 	// Equal heights divs
 	$('.blocks').matchHeight();
 	
+	// Equal heights divs
+	$('.js-blocks').matchHeight();
+	
 	// Paralax
 	skrollr.init({
     	forceHeight: false,
