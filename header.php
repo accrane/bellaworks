@@ -45,7 +45,7 @@ fbq('track', "PageView");</script>
 src="https://www.facebook.com/tr?id=1107124109368587&ev=PageView&noscript=1"
 /></noscript>
 <!-- End Facebook Pixel Code -->
-
+<link href="https://fonts.googleapis.com/css?family=Arimo" rel="stylesheet">
 
 <?php wp_head(); ?>
 </head>
